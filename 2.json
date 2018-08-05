@@ -1,0 +1,20 @@
+﻿[
+  {
+    "NOME": "Francisco",
+    "TELEFONE": "(85)123.456.789",
+    "EMAIL": "francisco@gmail.com",
+    "TIPOS_PESSOA_ID": "1"
+  },
+  {
+    "NOME": "Joao",
+    "TELEFONE": "(85)1234.5678",
+    "EMAIL": "joao@gmail.com",
+    "TIPOS_PESSOA_ID": "1"
+  },
+  {
+    "NOME": "Pizzaria do Jaoa",
+    "TELEFONE": "(85)123.456.789",
+    "EMAIL": "contato@pizzariadojoao.com",
+    "TIPOS_PESSOA_ID": "2"
+  }
+]
